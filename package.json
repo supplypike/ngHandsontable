@@ -34,5 +34,6 @@
   "scripts": {
     "test": "./node_modules/karma/bin/karma start --single-run --browsers PhantomJS"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "dist/ngHandsontable.min.js"
 }
